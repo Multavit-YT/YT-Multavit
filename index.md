@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
 
-You can use the [editor on GitHub](https://github.com/Multavit-YT/YT-Multavit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1> Multavit Gaming/Multavit </h1>
 
-### Markdown
+<h4> Hey y’all! It's Multavit! Welcome to my website! Make sure to go check out my <a href="https://www.youtube.com/c/Multavit/featured"> Starblast channel </a> and <a href="https://www.youtube.com/channel/UC8tiyovFg5bHP8Gb5ST8rqA"> Minecraft channel! (right click to open link)</a> </h4>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<div>
 
-```markdown
-Syntax highlighted code block
+  You probably know me as Multavit Gaming, a Starblast YouTuber. This is the channel that I’ll be posting Minecraft vids from now on so make sure to sub! :D On my main Starblast channel, I upload videos of starblast.io and chess (not very often). I used to yell in my videos like a god damn canary but now I'll scream like an idiot :). Speaking of which please consider subscribing, it’s free, you can always unsubscribe and it’ll get me closer to 1K subs! :) NOW GO START PLAYING STARBLAST!!
 
-# Header 1
-## Header 2
-### Header 3
+  My Favorite Starblast Videos:
 
-- Bulleted
-- List
+  <iframe width = "320" height = "240" src = "https://www.youtube.com/watch?v=fF5i1sq5H-A&t=314s" >
 
-1. Numbered
-2. List
+  </iframe>
 
-**Bold** and _Italic_ and `Code` text
+  <video width = "320" height = "240" controls>
 
-[Link](url) and ![Image](src)
-```
+    <source src = "https://www.youtube.com/watch?v=GnppzvmmEtE" type="video">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  </video>
 
-### Jekyll Themes
+</div>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Multavit-YT/YT-Multavit/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
