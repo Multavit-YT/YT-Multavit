@@ -2,10 +2,12 @@
 <head>
     <link rel="stylesheet"
           href="https://fonts.googleapis.com/css?family=Tangerine&effect=fire-animation">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Goblin+One&display=swap" rel="stylesheet">
   </head>
 <div class = "font-effect-fire-animation"> Multavit Gaming/Multavit </div>
 
-<h4> Hey y’all! It's Multavit! Welcome to my website! Make sure to go check out my <a href="https://www.youtube.com/c/Multavit/featured"> Starblast channel </a> and <a href="https://www.youtube.com/channel/UC8tiyovFg5bHP8Gb5ST8rqA"> Minecraft channel! (right click to open link)</a> </h4>
+<div class = "font-family: 'Goblin One', cursive;"> Hey y’all! It's Multavit! Welcome to my website! Make sure to go check out my <a href="https://www.youtube.com/c/Multavit/featured"> Starblast channel </a> and <a href="https://www.youtube.com/channel/UC8tiyovFg5bHP8Gb5ST8rqA"> Minecraft channel! (right click to open link)</a> </div>
 
 <div>
 
