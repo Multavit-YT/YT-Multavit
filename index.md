@@ -2,12 +2,6 @@
 <head>
     <link rel="stylesheet"
           href="https://fonts.googleapis.com/css?family=Tangerine&effect=fire-animation">
-    <style>
-      body {
-        font-family: 'Tangerine', serif;
-        font-size: 48px;
-      }
-    </style>
   </head>
 <div class = "font-effect-fire-animation"> Multavit Gaming/Multavit </div>
 
