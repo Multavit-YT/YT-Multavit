@@ -11,7 +11,7 @@
 
 <div>
 
-  You probably know me as Multavit Gaming, a Starblast YouTuber. This is the channel that I’ll be posting Minecraft vids from now on so make sure to sub! :D On my main Starblast channel, I upload videos of starblast.io and chess (not very often). I used to yell in my videos like a god damn canary but now I'll scream like an idiot :). Speaking of which please consider subscribing, it’s free, you can always unsubscribe and it’ll get me closer to 1K subs! :) NOW GO START PLAYING STARBLAST!!
+  You probably know me as Multavit, a Starblast YouTuber. This is the channel that I’ll be posting Minecraft vids from now on so make sure to sub! :D On my main Starblast channel, I upload videos of Starblast.io and chess (not very often). I used to yell in my videos like a god damn canary but now I'll scream like an idiot :). Speaking of which please consider subscribing, it’s free, you can always unsubscribe and it’ll get me closer to 1K subs! :) NOW GO START PLAYING STARBLAST!!
 
   My Favorite Starblast Videos:
 
