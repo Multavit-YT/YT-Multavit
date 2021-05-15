@@ -1,8 +1,15 @@
-<!DOCTYPE html>
-
 <html>
-
-<h1> Multavit Gaming/Multavit </h1>
+<head>
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Tangerine&effect=fire-animation">
+    <style>
+      body {
+        font-family: 'Tangerine', serif;
+        font-size: 48px;
+      }
+    </style>
+  </head>
+<div class = "font-effect-fire-animation"> Multavit Gaming/Multavit </div>
 
 <h4> Hey y’all! It's Multavit! Welcome to my website! Make sure to go check out my <a href="https://www.youtube.com/c/Multavit/featured"> Starblast channel </a> and <a href="https://www.youtube.com/channel/UC8tiyovFg5bHP8Gb5ST8rqA"> Minecraft channel! (right click to open link)</a> </h4>
 
