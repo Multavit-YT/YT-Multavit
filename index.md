@@ -5,19 +5,20 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Goblin+One&display=swap" rel="stylesheet">
   </head>
-<div class = "font-effect-fire-animation"> Multavit Gaming/Multavit </div>
+<div class = "font-effect-fire-animation"> Multavit The Amazing </div>
 
-<div class = "font-family: 'Goblin One', cursive;"> Hey y’all! It's Multavit! Welcome to my website! Make sure to go check out my <a href="https://www.youtube.com/c/Multavit/featured"> Starblast channel </a> and <a href="https://www.youtube.com/channel/UC8tiyovFg5bHP8Gb5ST8rqA"> Minecraft channel! (right click to open link)</a> </div>
+<div class = "font-family: 'Goblin One', cursive;"> Hey y’all! It's Multavit! Welcome to my website! Make sure to go check out my <a href="https://www.youtube.com/c/Multavit/featured"> Starblast channel! </div>
 
 <div>
-
-  You probably know me as Multavit, a Starblast YouTuber. This is the channel that I’ll be posting Minecraft vids from now on so make sure to sub! :D On my main Starblast channel, I upload videos of Starblast.io and chess (not very often). I used to yell in my videos like a god damn canary but now I'll scream like an idiot :). Speaking of which please consider subscribing, it’s free, you can always unsubscribe and it’ll get me closer to 1K subs! :) NOW GO START PLAYING STARBLAST!!
+  Hiya! I'm Multavit, a Starblast YouTuber. I earned my 114 subs playing starblast but now I've moved on to Minecraft and Geometry Dash. I try to provide commentatary even if it's cringy because why not. Make sure to subscribe for more videos!
 
   My Favorite Starblast Videos:
 
-  <iframe width = "320" height = "240" src = "https://www.youtube.com/watch?v=fF5i1sq5H-A&t=314s" >
-
-  </iframe>
+  <video width = "320" height = "240" controls> 
+    
+    <source src = "https://www.youtube.com/watch?v=fF5i1sq5H-A&t=314s" type="video">
+    
+  </video>
 
   <video width = "320" height = "240" controls>
 
