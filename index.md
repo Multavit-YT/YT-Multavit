@@ -16,13 +16,15 @@
 
   My Favorite Minecraft Videos:
 
-  <iframe width = "320" height = "240" src = "https://www.youtube.com/watch?v=Vgt9kSrPo84" >
+  <video width = "320" height = "240" controls>
+  
+    <source src = "https://www.youtube.com/watch?v=Vgt9kSrPo84" type = "video">
+  
+  </video>
 
-  </iframe>
-
-  <iframe width = "320" height = "240" src = "https://www.youtube.com/watch?v=n7pvZxeOfEI">
-
-  </iframe>
+  <video width = "320" height = "240" controls>
+    <source src = "https://www.youtube.com/watch?v=n7pvZxeOfEI" type = "video">
+  </video>
 
 </div>
 
