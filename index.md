@@ -1,31 +1,30 @@
-<html>
-<head>
-    <link rel="stylesheet"
-          href="https://fonts.googleapis.com/css?family=Tangerine&effect=fire-animation">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Goblin+One&display=swap" rel="stylesheet">
-  </head>
-<div class = "font-effect-fire-animation"> Multavit The Amazing </div>
+<html lang="en">
 
-<div class = "font-family: 'Goblin One', cursive;"> Hey y’all! It's Multavit! Welcome to my website! Make sure to go check out my <a href="https://www.youtube.com/c/Multavit/featured"> Starblast channel! </div>
+<head>
+<meta charset="UTF-8">
+<title> Multavit's Lair </title>
+</head>
+  
+<body>
+<h1> Multavit Gaming/Multavit </h1>
+
+<h4> Hey y’all! It's Multavit! Welcome to my website! Make sure to go check out my <a href="https://www.youtube.com/c/Multavit/featured"> Minecraft channel </a> </h4>
 
 <div>
-  Hiya! I'm Multavit, a Starblast YouTuber. I earned my 114 subs playing starblast but now I've moved on to Minecraft and Geometry Dash. I try to provide commentatary even if it's cringy because why not. Make sure to subscribe for more videos!
 
-  My Favorite Starblast Videos:
+  Most of you know me as Multavit, a Minecraft YouTuber. I used to upload Starblast.io videos until the game died. (R.I.P) Nowadays I play bedwars on Hypixel with my friends Zach Carné, Jayden and Matt. I'd like to get 200 subscribers by 2022 so if you could kindly subscribe that would be awesome.
 
-  <video width = "320" height = "240" controls> 
-    
-    <source src = "https://www.youtube.com/watch?v=fF5i1sq5H-A&t=314s" type="video">
-    
-  </video>
+  My Favorite Minecraft Videos:
 
-  <video width = "320" height = "240" controls>
+  <iframe width = "320" height = "240" src = "https://www.youtube.com/watch?v=Vgt9kSrPo84" >
 
-    <source src = "https://www.youtube.com/watch?v=GnppzvmmEtE" type="video">
+  </iframe>
 
-  </video>
+  <iframe width = "320" height = "240" src = "https://www.youtube.com/watch?v=n7pvZxeOfEI">
+
+  </iframe>
 
 </div>
 
+</body>
 </html>
