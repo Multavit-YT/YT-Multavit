@@ -4,8 +4,8 @@
 <meta charset="UTF-8">
 <title> Multavit's Lair </title>
 </head>
-<div class="hide-on-small-only">
 <body>
+<div class="hide-on-small-only">
 <h1> Multavit Gaming/Multavit </h1>
 
 <h4> Hey y’all! It's Multavit! Welcome to my website! Make sure to go check out my <a href="https://www.youtube.com/c/Multavit/featured"> Minecraft channel </a> </h4>
@@ -25,13 +25,11 @@
   <video width = "320" height = "240" controls>
     <source src = "https://www.youtube.com/watch?v=n7pvZxeOfEI" type = "video">
   </video>
-
-</body>
-</div>
 <div class="hide-on-large-only">
-<body>
 <h1 Multavit-Mobile </h1>
 <h3> welp this is the mobile website lol </h3>
 <h4 you probably should have gone for the desktop version </h4>
 <h4 <a href="https://www.youtube.com/c/Multavit/featured"> SUBSCRIBE </a>
+</body>
+</div>
 </html>
